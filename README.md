@@ -31,12 +31,12 @@ Email: eve.dima@mail.ru <br>
 **web:** Spring WEB (Rest), Spring MVC, Lombok <br>
 **security:** Spring Security <br>
 **ДБ слой:** Spring Data JPA, JPQL, JPA Named Queries, <br>
-**Hibernate** HQL, Liquibase <br>
+**Hibernate и миграции БД:** Hibernate ORM, Liquibase <br>
 **db:** PostgreSQL, Oracle, H2 <br>
 **frontend:** Thymeleaf<br>
 **Тестирование:** Mockito, JUnit 5, AssertJ,  JUnit 4, Hamcrest <br>
 **Логирование:** Log4j, Slf4j <br>
-**Сборка:** Maven <br>
+**Сборка:** Maven, Gradle <br>
 **Дополнительные утилиты:** pgAdmin, Postman <br>
 **Другое:** Git, CheckStyle <br>
 **Java:** 8-17 SE, EE (part), Java Core <br>
