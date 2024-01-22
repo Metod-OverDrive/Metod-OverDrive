@@ -17,8 +17,6 @@ Email: eve.dima@mail.ru <br>
 + [**Response service**](https://github.com/Metod-OverDrive/response_service) Spring (Boot, Data, Security),
   Java, PostgreSQL, REST, GraphQL, GRPC, Liquibase, Maven, Docker compose
 
-<a href = "https://github.com/Metod-OverDrive?tab=repositories"> **more projects...** </a>
-
 ..............................................................
 
 <h3>Навыки</h3>
@@ -42,3 +40,5 @@ Email: eve.dima@mail.ru <br>
 **Java:** 8-17 SE, EE (part), Java Core <br>
 
 ..............................................................
+
+<a href = "https://github.com/Metod-OverDrive?tab=repositories"> **more projects...** </a>
