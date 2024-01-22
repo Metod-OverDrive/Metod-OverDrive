@@ -3,6 +3,22 @@
 Здесь представлены некоторые мои работы <br>
 Telegram: https://t.me/Metod_OverDrive; <br>
 Email: eve.dima@mail.ru <br>
+
+..............................................................
+
+<h3>PROJECTS</h3>
+
+Показываю применение навыков в проектах:<br>
+
++ [**Department manager**](https://github.com/Metod-OverDrive/department_manager) Microservices, Java, PostgreSQL,
+  Spring (Boot, Data, Security), Apache Kafka, REST, Liquibase, Maven, Docker compose
++ [**Send service**](https://github.com/Metod-OverDrive/send_service) Microservices, Java, Maven, Spring boot,
+  Spring Mail, PostgreSQL, Liquibase
++ [**Response service**](https://github.com/Metod-OverDrive/response_service) Spring (Boot, Data, Security),
+  Java, PostgreSQL, REST, GraphQL, GRPC, Liquibase, Maven, Docker compose
+
+<a href = "https://github.com/Metod-OverDrive?tab=repositories"> **more projects...** </a>
+
 ..............................................................
 
 <h3>Навыки</h3>
@@ -26,15 +42,3 @@ Email: eve.dima@mail.ru <br>
 **Java:** 8-17 SE, EE (part), Java Core <br>
 
 ..............................................................
-
-<h3>PROJECTS</h3>
-Показываю применение навыков в проектах:<br>
-
-+ [**Department manager**](https://github.com/Metod-OverDrive/department_manager) Microservices, Java, PostgreSQL,
-  Spring (Boot, Data, Security), Apache Kafka, REST, Liquibase, Maven, Docker compose
-+ [**Send service**](https://github.com/Metod-OverDrive/send_service) Microservices, Java, Maven, Spring boot,
-  Spring Mail, PostgreSQL, Liquibase
-+ [**Response service**](https://github.com/Metod-OverDrive/response_service) Spring (Boot, Data, Security),
-  Java, PostgreSQL, REST, GraphQL, GRPC, Liquibase, Maven, Docker compose
-
-<a href = "https://github.com/Metod-OverDrive?tab=repositories"> **more projects...** </a>
