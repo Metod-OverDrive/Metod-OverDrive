@@ -9,9 +9,9 @@ Telegram: https://t.me/Metod_OverDrive; <br>
 
 Показываю применение навыков в проектах:<br>
 
-+ [**Department manager**](https://github.com/Metod-OverDrive/department_manager) Microservices, Java, PostgreSQL,
++ [**Department manager**](https://github.com/Metod-OverDrive/department_manager) Java, PostgreSQL,
   Spring (Boot, Data, Security), Apache Kafka, REST, Liquibase, Maven, Docker compose
-+ [**Send service**](https://github.com/Metod-OverDrive/send_service) Microservices, Java, Maven, Spring boot,
++ [**Send service**](https://github.com/Metod-OverDrive/send_service) Java, Maven, Spring boot,
   Spring Mail, PostgreSQL, Liquibase
 + [**Response service**](https://github.com/Metod-OverDrive/response_service) Spring (Boot, Data, Security),
   Java, PostgreSQL, REST, GraphQL, GRPC, Liquibase, Maven, Docker compose
